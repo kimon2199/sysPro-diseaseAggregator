@@ -1,0 +1,6 @@
+What is my name?
+/topk-AgeRanges 3 USA Malaria 01-01-0011 01-01-2018
+/diseaseFrequency Malaria 01-01-1990 01-01-2017
+/numPatientAdmissions Malaria 01-01-1980 01-01-2017
+/numPatientDischarges Malaria 01-01-1990 01-01-2017
+/numPatientDischarges Malaria 01-01-1990 01-01-2017 Ziba Zaba wifi 
